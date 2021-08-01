@@ -11,6 +11,7 @@ module.exports = {
     author: {
       name: `Maplesyrup Web`,
       summary: `Maplesyrup Web`,
+      pathPrefix: "/gatsby-demo-page"
     },
     description: `A demo Gatsby site`,
     url: `https://something.or.other`,
